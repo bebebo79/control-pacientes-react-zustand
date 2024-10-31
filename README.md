@@ -1,3 +1,9 @@
+Hi, soy Beatriz Bermejo
+
+En este proyecto he React + TS he utilizado zustand para manejar el estado global.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
